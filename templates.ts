@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+const templateOrder = `<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -241,3 +241,7 @@
     </div>
   </body>
 </html>
+
+
+`;
+module.exports.templateOrder = templateOrder;

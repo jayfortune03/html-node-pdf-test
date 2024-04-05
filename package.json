@@ -11,6 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "html-pdf-node": "^1.0.8",
-    "live-server": "^1.2.2"
+    "live-server": "^1.2.2",
+    "qrcode": "^1.5.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.4"
   }
 }
